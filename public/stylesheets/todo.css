@@ -1,0 +1,31 @@
+body{
+	background-color: #C0C0C0;
+}
+h1{
+	font-size: 60px;
+	text-align: center;
+	color: #808080;
+}
+.done-true{
+	text-decoration:line-through;
+	color:grey;
+}
+
+td.CheckBox{
+	border-right: 3px double #CC9966;
+
+}
+td{
+	border-bottom: 2px dotted #330000;
+}
+table{
+	border-collapse: collapse;
+	border-top: 15px solid #330000;
+	border-bottom: 5px outset grey;
+	border-left: 1px outset grey;
+	border-right: 1px outset grey;
+}
+button{
+	background-color: #CC9900;
+	
+}
